@@ -1,6 +1,5 @@
 # Real-Time-Face-and-Eye-Detection-using-OpenCV-and-Haar-Cascades
 This project implements real-time face and eye detection using OpenCV's Haar cascade classifiers. The program captures video from a webcam, detects faces and eyes, and visualizes them with bounding boxes.
-
 Features
 Real-time face and eye detection
 Uses OpenCV's Haar cascade classifiers
